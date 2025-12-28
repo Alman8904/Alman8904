@@ -37,6 +37,13 @@ Right now I'm diving into cloud computing because I want to actually deploy some
 
 ---
 
+## 🎮 Side Interests
+
+- 🎮 Game development (logic and mechanics)
+- 🎬 Video editing
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -48,13 +55,6 @@ Right now I'm diving into cloud computing because I want to actually deploy some
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alman8904&layout=compact&theme=tokyonight&langs_count=8)
 
 </div>
-
----
-
-## 🎮 Side Interests
-
-- 🎮 Game development (logic and mechanics)
-- 🎬 Video editing
 
 ---
 
