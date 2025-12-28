@@ -44,7 +44,17 @@ Right now I'm diving into cloud computing because I want to actually deploy some
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alman8904&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alman8904&theme=tokyonight)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alman8904&layout=compact&theme=tokyonight&langs_count=8)
+
+</div>
 
 ---
 
