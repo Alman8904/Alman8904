@@ -1,55 +1,51 @@
+# Hey, I'm [Your Name] 👋
 
-# Hi, I'm [Your Name] 👋
+Backend developer who actually enjoys working with servers, databases, and APIs. Currently in 3rd year, building things with Java and Spring Boot.
 
-### 👨‍💻 Backend Developer | Java & Spring Boot Specialist
+## 🛠️ What I Work With
 
-I am a backend-focused developer passionate about building scalable, efficient systems. While I have foundational knowledge in frontend technologies, my expertise and passion lie in server-side architecture, database optimization, and API development.
+**Backend** (this is my thing)
 
-I am currently expanding my engineering toolkit by diving into **Cloud Computing** to master the full deployment lifecycle.
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+**Tools**
 
-### 🛠️ Technical Stack
-
-#### 🔙 Backend (Core Focus)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🌐 Frontend (Familiar)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+**Frontend** (know the basics, but not my focus)
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## 🌱 What I'm Learning
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+Right now I'm diving into cloud computing because I want to actually deploy something fully functional. No deployed projects yet, but that's changing soon.
+
+## 🎮 Side Interests
+
+- Game development (logic and mechanics)
+- Video editing
+
+## 💼 Currently
+
+Looking for internship opportunities where I can work on real projects and learn from experienced developers.
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](#)
 
 ---
 
-### 🔭 Current Focus & Learning
-I am bridging the gap between development and operations. My current learning roadmap includes:
-* **Cloud Services:** AWS (EC2, RDS, S3)
-* **Containerization:** Docker & Kubernetes
-* **CI/CD:** GitHub Actions
-
-### 🧩 Hobbies & Interests
-* **Game Development:** Logic and mechanics design.
-* **Video Editing:** Creative storytelling through tech.
-
----
-
-### 💼 Open for Opportunities
-I am actively seeking **Backend Engineering Internships**. I bring a strong grasp of OOP, Java ecosystem tools, and a hunger to solve complex backend problems.
-
-### 📫 Connect
-<a href="[Link_To_LinkedIn]">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:[Your_Email]">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+*Love backend. Learning cloud. Building things.*
