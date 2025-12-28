@@ -2,12 +2,6 @@
 
 Backend developer who enjoys working with servers, databases, and APIs. Currently in 3rd year, building things with Java and Spring Boot.
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Alman8904&color=blueviolet&style=for-the-badge)
-  
-</div>
-
 ---
 
 ## 🛠️ What I Work With
@@ -78,6 +72,8 @@ Currently looking for internships to work on real projects and grow as a develop
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Alman8904&color=blueviolet&style=flat-square)
 
 </div>
 
