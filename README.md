@@ -4,7 +4,7 @@ Backend developer who enjoys working with servers, databases, and APIs. Currentl
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Alman8904&color=blueviolet&style=for-the-badge)
   
 </div>
 
@@ -47,11 +47,11 @@ Right now I'm diving into cloud computing because I want to actually deploy some
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alman8904&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alman8904&theme=tokyonight)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alman8904&layout=compact&theme=tokyonight&langs_count=8)
 
 </div>
 
