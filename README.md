@@ -2,9 +2,17 @@
 
 Backend developer who enjoys working with servers, databases, and APIs. Currently in 3rd year, building things with Java and Spring Boot.
 
-##  What I Work With
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+  
+</div>
 
-**Backend** (My most intrested field)
+---
+
+## 🛠️ What I Work With
+
+**Backend** (My most interested field)
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -24,28 +32,61 @@ Backend developer who enjoys working with servers, databases, and APIs. Currentl
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-##  What I'm Learning
+---
+
+## 🌱 What I'm Learning
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-Right now I'm diving into cloud computing because I want to actually deploy something fully functional. 
-
-##  Currently
-
-Looking for internship opportunities where I can work on real projects and learn from experienced developers
-
-##  Side Interests
-
-- Game development )
-- Video editing
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](#)
+Right now I'm diving into cloud computing because I want to actually deploy something fully functional.
 
 ---
 
-*Love backend. Learning cloud. Building things.*
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8)
+
+</div>
+
+---
+
+## 🎮 Side Interests
+
+- 🎮 Game development (logic and mechanics)
+- 🎬 Video editing
+
+---
+
+## 💼 Open to Opportunities
+
+Currently looking for internships to work on real projects and grow as a developer.
+
+---
+
+## 📫 Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+  
+  *Love backend. Learning cloud. Building things.*
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  
+</div>
